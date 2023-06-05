@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+AWS_KEY="44c8a72d-8945-4edd-9336-1cffb4255794"
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     try:
